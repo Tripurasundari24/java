@@ -21,7 +21,7 @@ insert1.sendKeys("pass");
 WebElement btn = driver.findElement(By.id("login"));
 btn.click();
 
-
+System.out.println(greens);
 
 }
 }
